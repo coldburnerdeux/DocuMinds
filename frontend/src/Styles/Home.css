@@ -1,0 +1,10 @@
+.select-container{
+    position: absolute;
+    right: 3%;
+}
+
+.history-button{
+    position: absolute;
+    bottom: 5%;
+    right: 3%;
+}

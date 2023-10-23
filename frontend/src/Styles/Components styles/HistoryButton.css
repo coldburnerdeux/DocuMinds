@@ -1,0 +1,36 @@
+p {
+  margin: 0;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 165px;
+  height: 66px;
+  padding: 17px 17px 17px 21px;
+  border-radius: 20px;
+  box-sizing: border-box;
+  background-color: #fff;
+  box-shadow: 0px 4px 12px rgba(92, 131, 116, 0.23);
+}
+.item-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 100%;
+  box-sizing: border-box;
+}
+.history {
+  color: rgba(0, 32, 20, 0.97);
+  font-size: 20px;
+  line-height: 20px;
+  font-family: Poppins, sans-serif;
+  font-weight: 300;
+}
+
+.group {
+  width: 36.51px;
+  height: 100%;
+}
